@@ -1,1 +1,11 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- **programming**
+  - _Python_    🟦🟦🟦🟦
+  - _Latex_     🟦🟦
+  - _Matlab_    🟦🟦
+- **language**
+  - Portugues   🟦🟦🟦🟦🟦
+  - English     🟦🟦
+- **expertise area**
+  - Aeroelasticity
+  - Discrete nonlinearities
+  - Numerical Methods
