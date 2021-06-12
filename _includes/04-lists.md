@@ -1,0 +1,9 @@
+- watch series 📺
+  - this is us
+  - heartland
+  - when calls the heart
+  - gilmore girls
+- play sports 🏐
+  - biribol
+  - futsal
+- programming in python 💻

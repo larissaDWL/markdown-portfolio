@@ -1,0 +1,11 @@
+- **programming**
+  - _Python_    🟦🟦🟦🟦
+  - _Latex_     🟦🟦
+  - _Matlab_    🟦🟦
+- **language**
+  - Portugues   🟦🟦🟦🟦🟦
+  - English     🟦🟦
+- **expertise area**
+  - Aeroelasticity
+  - Discrete nonlinearities
+  - Numerical Methods
